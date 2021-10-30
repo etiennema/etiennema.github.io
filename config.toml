@@ -1,0 +1,4 @@
+baseURL = 'https://etiennema.com/'
+languageCode = 'en-us'
+title = 'Etienne Ma'
+theme = 'book'
