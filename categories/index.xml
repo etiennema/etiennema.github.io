@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Etienne Ma</title>
-    <link>https://etiennema.com/categories/</link>
+    <link>https://etiennema.github.io/categories/</link>
     <description>Recent content in Categories on Etienne Ma</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://etiennema.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://etiennema.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
