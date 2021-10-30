@@ -1,6 +1,5 @@
 ---
 title: "Pillars of Reflection"
-date: 2021-09-28T21:22:32-04:00
 draft: false
 ---
 # 💭 Pillars of Reflection
