@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://etiennema.com/</loc>
+    <lastmod>2021-09-28T21:22:32-04:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://etiennema.com/projects/message-in-a-bottle/</loc>
+    <lastmod>2021-09-28T21:22:32-04:00</lastmod>
+  </url><url>
+    <loc>https://etiennema.com/projects/</loc>
+    <lastmod>2021-09-28T21:22:32-04:00</lastmod>
+  </url><url>
+    <loc>https://etiennema.com/posts/home/</loc>
+    <lastmod>2021-09-28T21:06:01-04:00</lastmod>
+  </url><url>
+    <loc>https://etiennema.com/posts/</loc>
+    <lastmod>2021-09-28T21:06:01-04:00</lastmod>
+  </url><url>
+    <loc>https://etiennema.com/categories/</loc>
+  </url><url>
+    <loc>https://etiennema.com/tags/</loc>
+  </url>
+</urlset>
